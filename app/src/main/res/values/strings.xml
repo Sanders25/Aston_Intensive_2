@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Aston_Intensive_2</string>
+    <string name="button_label_toast">Toast</string>
+    <string name="button_label_count">Count</string>
+    <string name="count_initial_value">0</string>
+    <string name="toast_message">Hello Toast!</string>
+    <string name="article_title">Beatles Anthology Vol. 1</string>
+    <string name="text_header_reply">Reply Received</string>
+    <string name="button_second">Reply</string>
+    <string name="edittext_uri">https://developer.android.com</string>
+    <string name="button_uri">Open Website</string>
+    <string name="edittext_loc">Golden Gate Bridge</string>
+    <string name="button_loc">Open Location</string>
+    <string name="edittext_share">\'Twas brillig and the slithy toves</string>
+    <string name="button_share">Share This Text</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="article_subtitle">Behind That Locked Door: Beatles Rarities!</string>
+    <string name="article_text">In a vault deep inside Abbey Road Studios in London — protected by an unmarked, triple-locked, police-alarmed door — are something like 400 hours of unreleased Beatles recordings, starting from June 2, 1962 and ending with the very last tracks recorded for the <i>Let It Be</i> album. The best of the best were released by Apple Records in the form of the 3-volume Anthology series.
+        For more information, see the Beatles Time Capsule at www.rockument.com.
+\n\n
+This volume starts with the first new Beatle song, “Free as a Bird” (based on a John Lennon demo, found only on <i>The Lost Lennon Tapes Vol. 28</i>, and covers the very earliest historical recordings, outtakes from the first albums, and live recordings from early concerts and BBC Radio sessions.
+\n\n
+<b>Highlights include:</b>
+\n\n
+<b><i>Cry for a Shadow</i></b> - Many a Beatle fanatic started down the outtake road, like I did, with a first listen to this song. Originally titled “Beatle Bop” and recorded in a single session that yielded four songs (the other three featured Tony Sheridan with the Beatles as a backing band), “Cry for a Shadow” is an instrumental written by Lennon and Harrison, which makes it unique to this day. John Lennon plays rhythm guitar, George Harrison plays lead guitar, Paul McCartney plays bass, and Pete Best plays drums. The sessions were produced by Bert Kaempfert in Hamburg, Germany, during the Beatles’ second visit from April through July of 1961 to play in the Reeperbahn-section clubs.
+\n\n
+<b><i>My Bonnie</i></b> and <b><i>Ain’t She Sweet</i></b> — At the same session, the Beatles played on “My Bonnie” (the first-ever single with Beatles playing), as the backing band for English singer Tony Sheridan, originally a member of the Jets. The popularity of this single in Liverpool brought the Beatles to the attention of Brian Epstein, who worked in the NEMS record store and tried to meet demand for the disc. John Lennon then sings a fine “Ain’t She Sweet” (his first-ever released vocal).
+\n\n
+<b><i>Searchin</i></b> — A Jerry Leiber - Mike Stoller comedy song that was a hit for the Coasters in 1957, and a popular live favorite of the Beatles. The Coasters also had a hit with “Besame Mucho” and the Beatles covered that song as well. Ringo Starr had by now replaced Pete Best on drums. The high falsetto is George, who also plays a hesitant lead guitar. This is from their first audition for Decca Records in London on Jan 1., 1962, live in the studio. The Grateful Dead would later cover “Searchin” with a similar arrangement, Pigpen doing the Paul vocals. A live version is available on outtake records featuring the Dead joined by the Beach Boys!
+\n\n
+<b><i>Love Me Do</i></b> — An early version of the song, played a bit slower and with more of a blues feeling, and a cool bossa-nova beat in middle. Paul had to sing while John played harmonica — a first for the group. Pete Best played drums on this version.
+\n\n
+<b><i>She Loves You – Till There Was You – Twist and Shout</i></b> — Live at the Princess Wales Theatre by Leicester Square in London, attended by the Queen. “Till There Was You” (by Meredith Wilson) is from the musical The Music Man and a hit for Peggy Lee in 1961. Before playing it, Paul said it was recorded by his favorite American group, “Sophie Tucker” (which got some laughs). At the end, John tells the people in the cheaper seats to clap their hands, and the rest to “rattle your jewelry” and then announces “Twist and Shout” (a song by Bert Russell and Phil Medley that was first recorded in 1962 by the Isley Brothers). A film of the performance shows the Queen smiling at John’s remark.
+\n\n
+<b><i>Leave My Kitten Alone</i></b> — One of the lost Beatle songs recorded during the “Beatles For Sale” sessions but never released. This song, written by Little Willie John, Titus Turner, and James McDougal, was a 1959 R&amp;B hit for Little Willie John and covered by Johnny Preston before the Beatles tried it and shelved it. A reference to a “big fat bulldog” may have influenced John’s “Hey Bulldog” (Yellow Submarine album), which is a similar rocker.
+\n\n
+<b><i>One After 909</i></b> — A song recorded for the <i>Let It Be</i> album was actually worked on way back in the beginning, six years earlier. This take shows how they did it much more slowly, with an R&amp;B feel to it.
+</string>
+    <string name="send">Send</string>
+    <string name="text_header">Message Received</string>
+    <string name="editText_main">Enter Your Message Here</string>
+    <string name="lesson_1">Lesson 1</string>
+    <string name="lesson_2">Lesson 2</string>
+    <string name="text_1">
+        <b>Text_1</b>
+        \n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        \n\n
+        Purus in mollis nunc sed id semper risus. In arcu cursus euismod quis viverra nibh cras pulvinar mattis. Dictum fusce ut placerat orci nulla pellentesque.
+        \n\n
+        Diam donec adipiscing tristique risus nec feugiat in. Sem integer vitae justo eget magna fermentum iaculis. Viverra ipsum nunc aliquet bibendum.
+        \n\n
+        Varius sit amet mattis vulputate enim nulla aliquet porttitor lacus. Egestas quis ipsum suspendisse ultrices gravida dictum fusce ut placerat.
+        \n\n
+        Faucibus purus in massa tempor nec feugiat nisl. Id neque aliquam vestibulum morbi blandit cursus risus at. Risus in hendrerit gravida rutrum.
+        \n\n
+        Vulputate eu scelerisque felis imperdiet proin fermentum leo. Semper quis lectus nulla at volutpat diam ut venenatis. Leo vel fringilla est ullamcorper eget.
+        \n\n
+        Leo duis ut diam quam. Sed viverra tellus in hac. Pretium aenean pharetra magna ac placerat vestibulum lectus. Ut tellus elementum sagittis vitae et leo.
+        \n\n
+        Amet volutpat consequat mauris nunc congue.
+    </string>
+    <string name="text_2">
+        <b>Text_2</b>
+        \n\n
+        Lacus viverra vitae congue eu consequat ac felis donec. Pellentesque dignissim enim sit amet venenatis urna cursus.
+        \n\n
+        Eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Bibendum ut tristique et egestas quis ipsum suspendisse ultrices gravida.
+        \n\n
+        Sagittis nisl rhoncus mattis rhoncus urna. Arcu bibendum at varius vel pharetra vel turpis nunc. Volutpat ac tincidunt vitae semper quis lectus nulla.
+        \n\n
+        Eu scelerisque felis imperdiet proin fermentum leo vel orci porta. Malesuada fames ac turpis egestas sed tempus urna et.
+        Pellentesque massa placerat duis ultricies lacus sed.
+    </string>
+    <string name="text_3">
+        <b>Text_3</b>
+        \n\n
+        Ultricies mi eget mauris pharetra et ultrices. Enim neque volutpat ac tincidunt vitae semper quis lectus.
+        \n\n
+        Tellus molestie nunc non blandit massa. Dignissim suspendisse in est ante in nibh. Sollicitudin aliquam ultrices sagittis orci a.
+        \n\n
+        Lorem donec massa sapien faucibus et molestie ac feugiat. Volutpat diam ut venenatis tellus in. Nisl condimentum id venenatis a condimentum.
+        \n\n
+        Accumsan sit amet nulla facilisi morbi. Purus sit amet volutpat consequat mauris nunc congue nisi. Suspendisse faucibus interdum posuere lorem ipsum dolor.
+        \n\n
+        Vel elit scelerisque mauris pellentesque pulvinar. Purus gravida quis blandit turpis cursus in hac. Varius quam quisque id diam vel quam elementum pulvinar.
+        \n\n
+        Suspendisse interdum consectetur libero id faucibus nisl. Quis imperdiet massa tincidunt nunc. Consectetur purus ut faucibus pulvinar.
+        \n\n
+        Adipiscing elit pellentesque habitant morbi tristique senectus et netus et. Enim blandit volutpat maecenas volutpat blandit aliquam etiam erat.
+    </string>
+    <string name="share">\"Share this text with: \"</string>
+</resources>

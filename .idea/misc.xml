@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/Repos/Android/Aston_Intensive_2/app/src/main/res/drawable/ic_arrow.xml" value="0.2705" />
+        <entry key="..\:/Projects/Repos/Android/Aston_Intensive_2/app/src/main/res/layout-land/activity_first_lesson.xml" value="0.24661458333333333" />
+        <entry key="..\:/Projects/Repos/Android/Aston_Intensive_2/app/src/main/res/layout-sw600dp/activity_first_lesson.xml" value="0.18" />
+        <entry key="..\:/Projects/Repos/Android/Aston_Intensive_2/app/src/main/res/layout/activity_first_lesson.xml" value="0.3167092924126172" />
+        <entry key="..\:/Projects/Repos/Android/Aston_Intensive_2/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Projects/Repos/Android/Aston_Intensive_2/app/src/main/res/layout/activity_second_lesson.xml" value="0.22" />
+        <entry key="..\:/Projects/Repos/Android/Aston_Intensive_2/app/src/main/res/layout/activity_second_lesson_extra.xml" value="0.31765711842667804" />
+        <entry key="..\:/Projects/Repos/Android/Aston_Intensive_2/app/src/main/res/layout/activity_second_lesson_first.xml" value="0.31765711842667804" />
+        <entry key="..\:/Projects/Repos/Android/Aston_Intensive_2/app/src/main/res/layout/activity_second_lesson_second.xml" value="0.31765711842667804" />
+        <entry key="..\:/Projects/Repos/Android/Aston_Intensive_2/app/src/main/res/layout/activity_second_lesson_third.xml" value="0.31765711842667804" />
+        <entry key="..\:/Projects/Repos/Android/Aston_Intensive_2/app/src/main/res/layout/activity_shopping_list.xml" value="0.31765711842667804" />
+        <entry key="..\:/Projects/Repos/Android/Aston_Intensive_2/app/src/main/res/layout/activity_uri_display.xml" value="0.16545532278751604" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
